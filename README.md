@@ -3,11 +3,10 @@
 
 👋 Hi, I’m @felipeyg
 - 👀 I’m interested in intership
-- 🌱 I’m currently learning python, html, css, javascript, git
+- 🌱 I’m currently learning html, css, javascript, git
 - 📫 How to reach me: felipeyg@gmail.com
 - 📘 I'm currently studying Production Engineering
-
-- 😍 hobbys: chess, esports and most recently nft-games
+- 😍 hobbys: chess, esports, 
 
 <!---
 felipeyg/felipeyg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
